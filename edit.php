@@ -10,7 +10,6 @@
 </head>
 
 <body>
-    EDIT PAGE
     <?php
     include 'koneksi.php';
 
